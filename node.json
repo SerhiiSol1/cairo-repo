@@ -1,0 +1,4 @@
+{
+  "localhost": "http://127.0.0.1:5050/",
+  "goerli": "https://starknet-goerli.infura.io/v3/333f75c044564279afa7d7721d8dfac1"
+}
