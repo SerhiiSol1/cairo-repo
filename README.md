@@ -4,3 +4,8 @@
 - install all dependencies: `pip install -r requirements.txt`
 
 This repo is using Openzeppelin Nile. To use, check https://github.com/OpenZeppelin/cairo-contracts
+
+# Work with Nile:
+- compile contracts: `nile compile`
+- execute tests: `pytest`
+- deploy contract: `nile deploy contract`
